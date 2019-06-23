@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-gesture-handler] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\953d3675198d4f62224f1b1fdfdfe38e\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\8b59cf85caf7891123aa58b23ce51802\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\fc2cd884f1b95f5b89a241f2bfdf945a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b82c0edf42d1f63695410abee2ce070e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\eac17815cb0509cb217affb479bfef09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\35ec492346c449399028423b318c98c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\7609397b9fe3423e26113ab1a3c7865e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\1b3d7bca73ca70e9791f2454aa0c0793\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\954d63b76af75b7dbe09da6aca5df3f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\20f1a0fe1fba499b77ccd945e543ee40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\0114ddd2f3730f3c5edf173d7d3fb86e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\f54eb5a698dcfa34a963ba39aa30df01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\5cbbef7d5f2a9d6bab33ee849ffe6ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\1ad47cf8a5c0a3daedf8429cbcb292ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\45c6be2411b4ccb91fdfa859449e35dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b85869092ac90cfbc2ad2fdf3ac40ee3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\66e337db7df1baec13c8d6022f1495f4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4f39e72e86fb057bc56c25a5141584b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\7920f4a35eeb86ed5897ec3a85e01984\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\12e48cf408e509bc607a51697addbbe0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\e5ff7286382d1864f2328bf54da93974\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\6695c6bc92c0093fd8c2a1559fe08955\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\23f17fe40db4ae3518dc6bcfa74d4565\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\d2052c904dbb51aeb6edac07716130c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\647f65c2165c64d48729c93b6dc3574a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\612a90b558219035233a73f3226ac21e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\c7e5decdcb8b1f9994a77157ef4a777d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\c9a575e56db8bd7ae7240c57db87013c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\465436b83cf9fb737ef6850291582778\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\55ff75b97a0fbcb484d6cfe2d82e9b79\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\07e9df7e422388232ca2761313b5073f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\893e68d082d05f2bea51523c2f9a2c66\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4b9fe935a831406cb3d3bcb8d650cc4a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\6caaebd4ce6627136e059d886e8f659e\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\953d3675198d4f62224f1b1fdfdfe38e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\953d3675198d4f62224f1b1fdfdfe38e\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b85869092ac90cfbc2ad2fdf3ac40ee3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b85869092ac90cfbc2ad2fdf3ac40ee3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\66e337db7df1baec13c8d6022f1495f4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\66e337db7df1baec13c8d6022f1495f4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4b9fe935a831406cb3d3bcb8d650cc4a\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4b9fe935a831406cb3d3bcb8d650cc4a\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b85869092ac90cfbc2ad2fdf3ac40ee3\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:10:7-39
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:12:7-52
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:11:7-41
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:13:7-34
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:14:7-38
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:9:7-38
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.instaclone.MainActivity
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\953d3675198d4f62224f1b1fdfdfe38e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\953d3675198d4f62224f1b1fdfdfe38e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\8b59cf85caf7891123aa58b23ce51802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\8b59cf85caf7891123aa58b23ce51802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\fc2cd884f1b95f5b89a241f2bfdf945a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\fc2cd884f1b95f5b89a241f2bfdf945a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b82c0edf42d1f63695410abee2ce070e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b82c0edf42d1f63695410abee2ce070e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\eac17815cb0509cb217affb479bfef09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\eac17815cb0509cb217affb479bfef09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\35ec492346c449399028423b318c98c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\35ec492346c449399028423b318c98c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\7609397b9fe3423e26113ab1a3c7865e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\7609397b9fe3423e26113ab1a3c7865e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\1b3d7bca73ca70e9791f2454aa0c0793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\1b3d7bca73ca70e9791f2454aa0c0793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\954d63b76af75b7dbe09da6aca5df3f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\954d63b76af75b7dbe09da6aca5df3f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\20f1a0fe1fba499b77ccd945e543ee40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\20f1a0fe1fba499b77ccd945e543ee40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\0114ddd2f3730f3c5edf173d7d3fb86e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\0114ddd2f3730f3c5edf173d7d3fb86e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\f54eb5a698dcfa34a963ba39aa30df01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\f54eb5a698dcfa34a963ba39aa30df01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\5cbbef7d5f2a9d6bab33ee849ffe6ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\5cbbef7d5f2a9d6bab33ee849ffe6ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\1ad47cf8a5c0a3daedf8429cbcb292ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\1ad47cf8a5c0a3daedf8429cbcb292ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\45c6be2411b4ccb91fdfa859449e35dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\45c6be2411b4ccb91fdfa859449e35dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b85869092ac90cfbc2ad2fdf3ac40ee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\b85869092ac90cfbc2ad2fdf3ac40ee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\66e337db7df1baec13c8d6022f1495f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\66e337db7df1baec13c8d6022f1495f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4f39e72e86fb057bc56c25a5141584b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4f39e72e86fb057bc56c25a5141584b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\7920f4a35eeb86ed5897ec3a85e01984\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\7920f4a35eeb86ed5897ec3a85e01984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\12e48cf408e509bc607a51697addbbe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\12e48cf408e509bc607a51697addbbe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\e5ff7286382d1864f2328bf54da93974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\e5ff7286382d1864f2328bf54da93974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\6695c6bc92c0093fd8c2a1559fe08955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\6695c6bc92c0093fd8c2a1559fe08955\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\23f17fe40db4ae3518dc6bcfa74d4565\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\23f17fe40db4ae3518dc6bcfa74d4565\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\d2052c904dbb51aeb6edac07716130c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\d2052c904dbb51aeb6edac07716130c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\647f65c2165c64d48729c93b6dc3574a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\647f65c2165c64d48729c93b6dc3574a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\612a90b558219035233a73f3226ac21e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\612a90b558219035233a73f3226ac21e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\c7e5decdcb8b1f9994a77157ef4a777d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\c7e5decdcb8b1f9994a77157ef4a777d\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\c9a575e56db8bd7ae7240c57db87013c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\c9a575e56db8bd7ae7240c57db87013c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\465436b83cf9fb737ef6850291582778\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\465436b83cf9fb737ef6850291582778\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\55ff75b97a0fbcb484d6cfe2d82e9b79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\55ff75b97a0fbcb484d6cfe2d82e9b79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\07e9df7e422388232ca2761313b5073f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\07e9df7e422388232ca2761313b5073f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\893e68d082d05f2bea51523c2f9a2c66\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\893e68d082d05f2bea51523c2f9a2c66\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4b9fe935a831406cb3d3bcb8d650cc4a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\4b9fe935a831406cb3d3bcb8d650cc4a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\6caaebd4ce6627136e059d886e8f659e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Danilo J. de Souza\.gradle\caches\transforms-2\files-2.1\6caaebd4ce6627136e059d886e8f659e\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\android\app\src\debug\AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Danilo J. de Souza\Desktop\Rocketseat\Instagram\mobile\instaclone\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67

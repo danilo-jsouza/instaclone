@@ -1,0 +1,4 @@
+#Sun Jun 16 02:10:30 BRT 2019
+base.0=C\:\\Users\\Danilo J. de Souza\\Desktop\\Rocketseat\\Instagram\\mobile\\instaclone\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
